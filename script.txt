@@ -1,0 +1,1 @@
+alt+Tab Enter ctrl+shift+e Down Down repeat:6:alt+Up Down Down repeat:8:Up space Down Down space repeat:4:Down space repeat:6:Down space repeat:6:Tab ctrl+a period j p g repeat:4:Left

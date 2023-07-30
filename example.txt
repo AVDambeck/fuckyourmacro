@@ -1,0 +1,1 @@
+py fumacro.py alt+Tab Enter ctrl+shift+e Down Down repeat:6:alt+Up Down Down repeat:8:Up space Down Down space repeat:4:Down space repeat:6:Down space repeat:6:Tab ctrl+a period j p g repeat:4:Left  type:49 Enter sleep:2400 Enter sleep:2300 ctrl+w sleep:200 ctrl+d sleep:300 alt+Tab Up; let i=49+1

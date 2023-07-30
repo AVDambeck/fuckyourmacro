@@ -1,0 +1,15 @@
+#+title: Framwork
+
+Okay basically I want to make the file loading better and add mouse commands and human interaction steps. I think it might be best to develope a compiler.
+
+mode 1: dummy CLI mode, just like it is now, accepts basic syntax for quick shit.
+
+mode 2: actual good imports a file and runs commands.
+
+name space: xdotool key commands would go straight through, add call let repeat sleep type mousemove mousbutton import
+
+compile process.
+1. load file.
+2. make a big array from the file, splitton on semi colons
+3. scan through it looking for import commands.
+idk tbh, this seesms like a loss
